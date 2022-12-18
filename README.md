@@ -21,6 +21,6 @@ BOM for Flipper zero add on board
 2.54mm pitch right angle pin header male. One 8 pin one 10 pin.
 
 SCHEMATIC:  
-![Schma](Schematic_Flipper_232.jpg)
+![Schma](Schematic_Flipper_RS232_UART.jpg)
 
 
