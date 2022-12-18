@@ -18,6 +18,8 @@ BOM for Flipper zero add on board
   
 1 x SOP16 MAX3232CDR (most max232 sop16 chips will work but MAX3232 works nicely with 3.3v and uses less power. Check datasheet for Capacitor values if you change the ic) Designator Footprint: MAX 
 
+2.54mm pitch right angle pin header male. One 8 pin one 10 pin.
+
 SCHEMATIC:  
 ![Schma](Schematic_Flipper-232-addon.jpg)
 
