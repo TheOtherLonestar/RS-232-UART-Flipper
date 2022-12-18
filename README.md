@@ -1,6 +1,8 @@
 # RS-232-UART-Flipper
 This is for an [add-on board](https://oshpark.com/shared_projects/RmFaMpFD) designed for the [flipper zero.](https://flipperzero.one/) It allows the flipper zero to send RS-232 commands through it's USB to UART mode.  
 
+![addon-pic](20221217_143148.jpg)
+
 The RS-232 is sent via the 3.5mm TRS Headphone jack. You will need an adapter cable to go from 3.5mm to DB9, RJ12, or RJ45  [LINK](https://www.amazon.com/LIANSHU-DC3-5mm-Serial-RS232-Cable/dp/B07G2ZL3SL)
 
 
