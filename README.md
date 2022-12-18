@@ -1,5 +1,5 @@
 # RS-232-UART-Flipper
-This is for an [add-on board](https://oshpark.com/shared_projects/RmFaMpFD) designed for the [flipper zero.](https://flipperzero.one/) It allows the flipper zero to send RS-232 commands through it's USB to UART mode.  
+This is for an add on board designed for the [flipper zero.](https://flipperzero.one/) It allows the flipper zero to send RS-232 commands through it's USB to UART mode. You can have the raw pcb made at [OSHPARK](https://oshpark.com/shared_projects/RmFaMpFD)
 
 ![addon-pic](20221217_143148.jpg)
 
